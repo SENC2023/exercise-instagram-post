@@ -17,6 +17,8 @@ body {
 }
 .post-icons { 
     padding: 10px;
+    display: flex;
+    justify-content: space-between;
 
 }
 .post-container { 
